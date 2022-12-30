@@ -1,1 +1,3 @@
 # TwitterProfileScraper
+
+Welcome to the "Twitter Scraper" GitHub repository! This repository contains Python code for scraping Twitter profiles and extracting relevant information such as tweets, followers, and likes. With this tool, you can easily gather data from multiple Twitter profiles and use it for analysis or research purposes. The code is easy to use and well-documented, making it a useful resource for anyone looking to work with Twitter data. Whether you're a researcher, data scientist, or simply curious about the tweets of your favorite celebrities, this code is sure to come in handy. So check out the code, give it a try, and see what insights you can uncover with the "Twitter Scraper"!
